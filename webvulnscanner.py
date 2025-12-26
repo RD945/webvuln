@@ -5,7 +5,6 @@ WebVulnScanner v2.1 (Generic) - Browser-Automated Web Vulnerability Scanner
 Uses Playwright for JavaScript rendering and network request interception.
 Includes built-in verification to reduce false positives.
 
-Clean version: No site-specific code (myCamu, Bennett, SkillSeekers, etc.)
 For Windows 11 | Single-file implementation
 
 Features:
@@ -953,3 +952,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
